@@ -5,7 +5,7 @@ const Footer = () => {
             <p>
                 Desenvolvido por 
                 <strong>
-                    José Guilherme
+                    <a href="https://www.linkedin.com/in/j-gui/">José Guilherme</a>
                 </strong>
             </p>
         </footer>
